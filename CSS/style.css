@@ -34,17 +34,17 @@ html {
   color: #000;
 }
 
-/* .center {
+.center {
   font-size: 36px;
   font-weight: 400;
   font-family: "Segoe UI", Arial, sans-serif;
   margin: 10px 0px;
   text-align: center;
-} */
+}
 
-/* #about {
+#about {
   padding: 32px;
-} */
+}
 
 #home {
   max-width: 980px;
@@ -55,9 +55,9 @@ html {
   text-align: center;
 }
 
-/* #contact {
+#contact {
   padding: 32px 0px;
-} */
+}
 
 .padding-32 {
   padding-top: 32px;
@@ -71,7 +71,7 @@ html {
 }
 
 .row {
-  /* float: left; */
+  float: left;
   display: flex;
 }
 
