@@ -35,7 +35,7 @@ html {
 }
 
 .center {
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 400;
   font-family: "Segoe UI", Arial, sans-serif;
   margin: 10px 0px;
@@ -87,6 +87,8 @@ h2 {
 
 .font-size-15 {
   font-size: 15px;
+  text-align: left;
+  margin-left: 15px;
 }
 
 .opacity {
