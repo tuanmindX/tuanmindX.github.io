@@ -3,12 +3,8 @@
   padding: 0px;
   box-sizing: border-box;
   /* font chữ */
-  font-family: 'Be Vietnam Pro', sans-serif;
-  font-family: 'Inclusive Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
+
   font-size: 15px;
   line-height: 1.5;
   text-decoration: none;
@@ -44,12 +40,7 @@ html {
   font-size: 30px;
   font-weight: 400;
   /* font chữ */
-  font-family: 'Be Vietnam Pro', sans-serif;
-  font-family: 'Inclusive Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
   margin: 15px 0px;
   text-align: center;
 }
@@ -66,12 +57,7 @@ html {
 .center {
   text-align: center;
   /* font chữ */
-  font-family: 'Be Vietnam Pro', sans-serif;
-  font-family: 'Inclusive Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
 }
 
 #contact {
@@ -102,11 +88,6 @@ html {
   letter-spacing: 4px;
   /* font chữ */
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-family: 'Inclusive Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 h2 {
@@ -120,12 +101,8 @@ h2 {
   text-align: left;
   margin-left: 15px;
   /* font chữ */
-  font-family: 'Be Vietnam Pro', sans-serif;
-  font-family: 'Inclusive Sans', sans-serif;
-  font-family: 'Montserrat', sans-serif;
-  font-family: 'Open Sans', sans-serif;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: 'Comfortaa', sans-serif;
+
 }
 
 .opacity {
