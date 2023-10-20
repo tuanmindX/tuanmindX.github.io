@@ -2,7 +2,13 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: Verdana, sans-serif;
+  /* font chữ */
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Inclusive Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 15px;
   line-height: 1.5;
   text-decoration: none;
@@ -37,8 +43,14 @@ html {
 .center {
   font-size: 30px;
   font-weight: 400;
-  font-family: "Segoe UI", Arial, sans-serif;
-  margin: 10px 0px;
+  /* font chữ */
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Inclusive Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 15px 0px;
   text-align: center;
 }
 
@@ -53,6 +65,13 @@ html {
 
 .center {
   text-align: center;
+  /* font chữ */
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Inclusive Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #contact {
@@ -64,7 +83,7 @@ html {
   padding-bottom: 32px;
 }
 
-#members {}
+#class {}
 
 .third {
   width: 33.33333%;
@@ -73,10 +92,21 @@ html {
 .row {
   float: left;
   display: flex;
+  justify-content: space-around;
+  border: 2px solid red;
+  align-items: center;
+  
 }
 
 .wide {
   letter-spacing: 4px;
+  /* font chữ */
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Inclusive Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 h2 {
@@ -89,6 +119,13 @@ h2 {
   font-size: 15px;
   text-align: left;
   margin-left: 15px;
+  /* font chữ */
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-family: 'Inclusive Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .opacity {
